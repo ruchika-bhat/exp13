@@ -73,13 +73,6 @@ format="mixed" allows multiple date formats
 dayfirst=True ensures correct interpretation (DD-MM-YYYY)
 This step is important for time-based analysis.
 
-# Importance of Data Preprocessing:
-Data preprocessing improves:
-* Accuracy of analysis
-* Consistency of data
-* Efficiency of algorithms
-Without proper preprocessing, results may be misleading or incorrect.
-
 
 # CONCLUSION:
 Data wrangling involves handling missing values, correcting inconsistencies, converting data types, and formatting data properly.
